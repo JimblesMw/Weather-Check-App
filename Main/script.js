@@ -1,4 +1,4 @@
-var APIKey = "140868a0bfdca5e4838b5700f0881180";
+var APIKey = "7792e4c4123ff691f646799ebc9af7ce";
 var city;
 var queryURL;
 var geoQuery;
